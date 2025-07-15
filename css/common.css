@@ -78,6 +78,10 @@ body {
 .action-footer li:first-child {
   border-left: none !important;
 }
+
+.action-footer li a {
+  color: var(--colorWhite);
+}
 /* For Desktop */
 @media only screen and (min-width: 990px) {
   .action-footer {
